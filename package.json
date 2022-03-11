@@ -1,0 +1,10 @@
+{
+  "name": "teamspirit-dakoku",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "puppeteer": "^13.4.1"
+  },
+  "author": "ellreka <ellreka5364@gmail.com>"
+}
